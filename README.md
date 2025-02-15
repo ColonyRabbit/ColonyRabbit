@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm looking for Some Job
 ------------------------
 
-"I have been interning as a front-end developer for 4 months, so I don't have many works yet. Learning is a normal part of my process."
+"I've been interning as a front-end developer for 4 months, so my work is still limited. I would like you to consider this. Learning is something normal for me, and if it will benefit me in the future, I'm happy to do it."
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [khanakorn01@gmail.com](mailto:khanakorn01@gmail.com)
